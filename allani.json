@@ -1,1 +1,51 @@
-w
+[
+  {
+    "title": "USA",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Flirt Community",
+        "provider": "webview",
+        "arguments": [
+          "https://tracker24.cc?label=80095b2200955bc19fb3c4da3491b9a3",
+          "deals"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Other Countries",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Top Films and series",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+          "https://allani.pl/",
+          "deals"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Settings",
+    "drawable": "",
+    "submenu": "Other",
+    "tabs": [
+      {
+        "title": "",
+        "provider": "custom",
+        "arguments": [
+          "",
+          "fragment"
+        ]
+      }
+    ],
+    "iap": false
+  }
+]
