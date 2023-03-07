@@ -8,7 +8,7 @@
         "title": "Flirt Community",
         "provider": "webview",
         "arguments": [
-          "https://tracker24.cc?label=80095b2200955bc19fb3c4da3491b9a3",
+          "https://allani.pl/",
           "deals"
         ]
       }
@@ -25,7 +25,7 @@
         "image": "",
         "provider": "webview",
         "arguments": [
-          "https://allani.pl/",
+          "",
           "deals"
         ]
       }
