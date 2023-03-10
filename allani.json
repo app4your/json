@@ -13,7 +13,7 @@
         ]
       },
       {
-        "title": "Wyprzedaze",
+        "title": "Wyprzedaze 60% taniej",
         "provider": "webview",
         "arguments": [
           "https://allani.pl/wyszukaj/wyprzedaze",
