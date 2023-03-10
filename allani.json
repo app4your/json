@@ -5,13 +5,22 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Flirt Community",
-        "provider": "wordpress",
+        "title": "Home",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://allani.pl/",
           "deals"
         ]
+      },
+      {
+        "title": "Wyprzedaze",
+        "provider": "webview",
+        "arguments": [
+          "https://allani.pl/wyszukaj/wyprzedaze",
+          "usa_new"
+        ]
       }
+  
     ],
     "iap": false
   },
